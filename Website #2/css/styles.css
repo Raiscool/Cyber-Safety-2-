@@ -1,0 +1,18 @@
+.cyber {
+  height: 500px;
+  float: right;
+}
+
+body {
+  background-color:#e2ffde;
+}
+
+hr {
+  border: dotted;
+  color: #c2fffb;
+}
+
+.hacked {
+  height: 500px;
+  float: right;
+}
